@@ -8,7 +8,6 @@
 #nav{
     height: 10vh;
     width: 100%;
-    background-color: red;
     position: fixed;
     display: flex;
     align-items: center;
