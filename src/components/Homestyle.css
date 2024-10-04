@@ -25,7 +25,18 @@ nav header4{
     font-weight: 500;
 }
 video{
-    height: 100%;
+    height: 100vh;
     width: 100%;
     object-fit: cover;
+}
+.block1
+{
+    height: 100vh;
+    width: 100%;
+}
+.block2
+{
+    height: 100vh;
+    width: 100%;
+    background-color: aqua;
 }

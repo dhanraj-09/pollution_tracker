@@ -18,7 +18,7 @@ function Home()
     const SOURCE=styled.source``;
     return (
         <>
-            <div>
+            <div id={"block1"}>
                 <nav id={"nav"}>
                     <IMG src={free1}>
                     </IMG>
@@ -31,7 +31,9 @@ function Home()
                     <SOURCE src={video1} type={"video/mp4"}></SOURCE>
                 </VIDEO>
             </div>
-            <div id={"main"}
+            <div className={"block2"}>
+
+            </div>
         </>
 )
 }
